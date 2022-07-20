@@ -1,6 +1,7 @@
 
 import java.util.*
 fun cal_arr(array1:Array<Int>):Triple<Int, Int,Int>{
+    //testtest
     array1.sort()
     var max_pair : Int =0;
     var pair_top : Int =0;
